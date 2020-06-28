@@ -1,0 +1,11 @@
+[From]
+Login = ***@mail.ru
+Password = ********
+
+[To]
+Recipient = ***@mail.ru
+
+[Message]
+Subject = Hello
+Text = Something
+Attachment = t.jpg
